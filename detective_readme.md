@@ -154,7 +154,7 @@ statistics-detective/
 ## 📞 Контакты
 
 - **GitHub Issues**: [Сообщить о проблеме](https://github.com/your-username/statistics-detective/issues)
-- **Email**: your-email@example.com
+- **Email**: interdictor911@gmail.com
 - **Связанные проекты**: [Демонстрация вероятностных законов](https://probability-laws-demo.streamlit.app/)
 
 ## 🙏 Благодарности
